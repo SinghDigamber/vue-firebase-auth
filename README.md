@@ -1,5 +1,8 @@
 # vue-firebase-auth
 
+### Complete Tutorial
+See [Vue 2 Firebase Authentication Tutorial Example](https://www.positronx.io/vue-js-firebase-authentication-tutorial-example/).
+
 ## Project setup
 ```
 npm install
@@ -19,6 +22,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
